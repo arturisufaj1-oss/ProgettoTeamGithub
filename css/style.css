@@ -1,8 +1,8 @@
 
     :root {
         /* Light Theme */
-        --bg-color: #fafafa;
-        --text-color: #5d5c5c;
+        --bg-color: #951e1e;
+        --text-color: #851717;
         --text-muted: #5b705b;
         --primary-color: #9b78ef;
         --secondary-color: #155471;
@@ -22,7 +22,7 @@
         /* Dark Theme */
         --bg-color: #050505;
         --text-color: #e7e0ed;
-        --text-muted: #a3a3a3;
+        --text-muted: #c22222;
         --primary-color: #d0bcff;
         --secondary-color: #4cd7f6;
         --surface-color: rgba(29, 26, 35, 0.4);
