@@ -2,7 +2,7 @@
     :root {
         /* Light Theme */
         --bg-color: #31AFAB;
-        --text-color: #851717;
+        --text-color: blue;
         --text-muted: #5b705b;
         --primary-color: #9b78ef;
         --secondary-color: #155471;
@@ -51,7 +51,7 @@
     }
 
     h1, h2, h3, h4, h5, h6, .font-heading {
-        font-family: 'Space Grotesk', sans-serif;
+        font-family: '  font-family: "Cause", cursive;'
     }
 
     a {
