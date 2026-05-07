@@ -16,7 +16,6 @@
                 localStorage.setItem('theme', 'light');
             }
         }
-        console.log("ciao bubu");
 
         // Initialize Theme
         const savedTheme = localStorage.getItem('theme');
